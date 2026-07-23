@@ -6,7 +6,7 @@
 
 请到 **[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)** 下载最新版：
 
-**[XMUCourse.apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.apk)**
+**[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)**
 
 1. 将 APK 传到 Android 手机
 2. 允许「安装未知来源应用」
