@@ -4,16 +4,9 @@
 
 ## 下载安装
 
-请到 **[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)** 下载最新版。
+请到 **[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)** 下载最新版：
 
-推荐任选其一：
-
-- **[XMUCourse.apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.apk)** — 直接安装
-- **[XMUCourse-v1.0.0.zip](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse-v1.0.0.zip)** — 解压后得到 `XMU课程表.Apk`
-
-> 说明：GitHub Releases 资源文件名不支持中文，因此直链 APK 使用英文名；需要中文文件名时请下载 ZIP。
-
-安装步骤：
+**[XMUCourse.apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.apk)**
 
 1. 将 APK 传到 Android 手机
 2. 允许「安装未知来源应用」
