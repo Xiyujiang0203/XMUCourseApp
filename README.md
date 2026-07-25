@@ -6,7 +6,7 @@
 
 请到 **[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)** 获取最新版：
 
-**当前版本 v1.0.5**
+**当前版本 v1.0.6**
 
 **[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)**
 
@@ -19,6 +19,7 @@
 - 厦大 CAS 账号密码登录
 - 按日 / 按周查看课程安排
 - 教务功能：成绩、考试、培养方案（本研分流）
+- 集市：拼车信息发布与查看（二手即将开放）
 - 更多页展示本科生 / 研究生身份
 - 本地保存登录状态，会话过期可自动重登
 - Material Design 3 主题色调节（浅色 / 深色光谱 + 课表色）
@@ -32,6 +33,12 @@
 - 能访问校园网或可访问厦大教务 / CAS 的网络
 
 ## 更新记录
+
+### v1.0.6
+
+- 新增「集市」：拼车发布、编辑、删除；招募中 / 拼成 / 超时状态
+- 检查更新对接管理端版本与蓝奏云下载（密码可复制）
+- 二手栏目占位
 
 ### v1.0.5
 
