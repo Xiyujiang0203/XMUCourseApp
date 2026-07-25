@@ -10,16 +10,17 @@
 
 当前版本：**v1.0.8**
 
-- **GitHub**：[点这里下载 XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk) · [全部版本](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
-- **蓝奏云**：https://wwamt.lanzout.com/iyXxC3ynvtef　提取码：`xmuc`
+- GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
+- GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
+- 蓝奏云：[打开下载页](https://wwamt.lanzout.com/iyXxC3ynvtef)（提取码 `xmuc`）
+
+GitHub 打不开时，用蓝奏云即可。
 
 安装步骤：
 
-1. 把 APK 传到 Android 手机  
-2. 允许「安装未知来源应用」  
-3. 打开安装包完成安装  
-
-GitHub 打不开时，用蓝奏云即可。
+1. 把 APK 传到 Android 手机
+2. 允许「安装未知来源应用」
+3. 打开安装包完成安装
 
 ## 能做什么
 
