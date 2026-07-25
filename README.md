@@ -6,7 +6,7 @@
 
 请到 **[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)** 获取最新版：
 
-**当前版本 v1.0.3**
+**当前版本 v1.0.4**
 
 **[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)**
 
@@ -32,6 +32,13 @@
 - 能访问校园网或可访问厦大教务 / CAS 的网络
 
 ## 更新记录
+
+### v1.0.4
+
+- 周课表重叠课改为「一门展示 +N 角标」，点击可查看全部
+- 接入教务校历周次（getZcxx），总周数与切周边界对齐
+- 首次登录自动落到距离今天最近的学期与周次
+- 课名空间不足时优先隐藏地点/周次；底部导航长按不再弹提示
 
 ### v1.0.3
 
