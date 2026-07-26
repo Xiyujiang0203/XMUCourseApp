@@ -8,7 +8,7 @@
 
 ## 下载安装
 
-当前版本：**v1.1.0**
+当前版本：**v1.1.1**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
@@ -51,6 +51,11 @@ GitHub 打不开时，用蓝奏云即可。
 有问题可以加 QQ 群 **1079554686**，或在 App 里提交意见反馈。
 
 ## 更新记录
+
+### v1.1.1
+
+- 登录页增加《用户协议与隐私政策》勾选与全文阅读  
+- 明确本应用仅供学习交流，不得用于违法用途  
 
 ### v1.1.0
 
