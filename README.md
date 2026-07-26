@@ -10,7 +10,7 @@
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
-- 蓝奏云：[打开下载页](https://wwamt.lanzout.com/iyXxC3ynvtef)（提取码 `xmuc`）
+- 蓝奏云：[打开下载页](https://wwamt.lanzout.com/i0GNM3yt5i4j)（提取码 `xmuc`）
 
 GitHub 打不开时，用蓝奏云即可。
 
