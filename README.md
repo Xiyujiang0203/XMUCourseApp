@@ -8,7 +8,7 @@
 
 ## 下载安装
 
-当前版本：**v1.0.9**
+当前版本：**v1.1.0**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
@@ -51,6 +51,12 @@ GitHub 打不开时，用蓝奏云即可。
 有问题可以加 QQ 群 **1079554686**，或在 App 里提交意见反馈。
 
 ## 更新记录
+
+### v1.1.0
+
+- 课表：仅进入周程自动刷新；更多页手动刷新并显示上次同步时间  
+- 本科培养方案课组课程缓存优化  
+- 修复 Release 图标花屏；应用名显示修复  
 
 ### v1.0.9
 
