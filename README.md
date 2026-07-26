@@ -8,7 +8,7 @@
 
 ## 下载安装
 
-当前版本：**v1.0.8**
+当前版本：**v1.0.9**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
@@ -40,7 +40,7 @@ GitHub 打不开时，用蓝奏云即可。
 **集市（可选）**
 
 - 拼车：发布 / 编辑 / 删除，招募中 / 拼成 / 超时  
-- 二手：多图发布、整帖或单图标记「已出」  
+- 二手：多图发布、整帖或单图标记「已售出」  
 
 ## 使用前看一眼
 
@@ -51,6 +51,12 @@ GitHub 打不开时，用蓝奏云即可。
 有问题可以加 QQ 群 **1079554686**，或在 App 里提交意见反馈。
 
 ## 更新记录
+
+### v1.0.9
+
+- 成绩 / 考试 / 培养方案：本地缓存先展示再后台刷新；教务会话共用  
+- 集市列表本地缓存；二手图磁盘缓存；「已出」改为「已售出」  
+- 教务打开优化；统一「上次同步」提示  
 
 ### v1.0.8
 
