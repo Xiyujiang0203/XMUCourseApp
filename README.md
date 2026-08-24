@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/d521ee61-63b1-40c4-b36f-850e4ded7e40
 
 ## 下载安装
 
-当前版本：**v1.1.2**
+当前版本：**v1.1.3**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
@@ -40,7 +40,7 @@ GitHub 打不开时，用蓝奏云即可。
 **教务 & 更多**
 
 - 成绩、考试、培养方案（本研分流）
-- 常用工具：厦门大学 2026-2027 学年校历
+- 常用工具：校历 PDF、常用电话（一键拨号）
 - 意见反馈（能看到管理端回复）
 - 检查更新、分享应用、QQ 交流群、捐赠入口
 
@@ -48,6 +48,7 @@ GitHub 打不开时，用蓝奏云即可。
 
 - 拼车：发布 / 编辑 / 删除，招募中 / 拼成 / 超时
 - 二手：多图发布、整帖或单图标记「已售出」
+- 帖子：公开楼层回复，支持配图
 
 ## 使用前看一眼
 
@@ -58,6 +59,12 @@ GitHub 打不开时，用蓝奏云即可。
 有问题可以加 QQ 群 **1079554686**，或在 App 里提交意见反馈。
 
 ## 更新记录
+
+### v1.1.3
+
+- 集市新增「帖子」：发帖 / 楼层回复 / 删帖，支持配图
+- 常用工具新增「常用电话」：翔安校区值班、各校区医务室、24 小时保卫与派出所，点击拨号
+- 修复退出登录后再登其他账号仍显示旧课表 / 旧身份的问题
 
 ### v1.1.2
 
