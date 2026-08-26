@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/d521ee61-63b1-40c4-b36f-850e4ded7e40
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
-- 蓝奏云：[打开下载页](https://wwamt.lanzout.com/iaTs944eg8ah)（提取码 `xmuc`）
+- 蓝奏云：[打开下载页](https://wwamt.lanzout.com/iiaOD44qbbvi)（提取码 `xmuc`）
 
 GitHub 打不开时，用蓝奏云即可。
 
