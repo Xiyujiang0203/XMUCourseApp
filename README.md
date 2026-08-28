@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/d521ee61-63b1-40c4-b36f-850e4ded7e40
 
 ## 下载安装
 
-当前版本：**v1.1.4**
+当前版本：**v1.1.5**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
@@ -40,7 +40,7 @@ GitHub 打不开时，用蓝奏云即可。
 **教务 & 更多**
 
 - 成绩、考试、培养方案（本研分流）
-- 常用工具：校历 PDF、虚拟/静态地图、图书馆开放时间、健康证提示、常用电话
+- 常用工具：校历 PDF、虚拟/静态地图、图书馆书目检索、图书馆开放时间、健康证提示、常用电话
 - 意见反馈（能看到管理端回复）
 - 检查更新、分享应用、QQ 交流群、捐赠入口
 
@@ -59,6 +59,13 @@ GitHub 打不开时，用蓝奏云即可。
 有问题可以加 QQ 群 **1079554686**，或在 App 里提交意见反馈。
 
 ## 更新记录
+
+### v1.1.5
+
+- 常用工具新增「图书馆书目检索」：关键词检索馆藏、封面、详情位置与预约
+- 图书馆个人中心：当前借阅 / 即将到期 / 借阅历史 / 我的书单
+- 虚拟地图支持定位权限（校园网地图定位）
+- 博士生 / 硕士生身份分别显示；切换账号时清理图书馆会话，避免串号
 
 ### v1.1.4
 
