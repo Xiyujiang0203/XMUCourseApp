@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/d521ee61-63b1-40c4-b36f-850e4ded7e40
 
 ## 下载安装
 
-当前版本：**v1.1.5**
+当前版本：**v1.1.6**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
@@ -43,6 +43,7 @@ GitHub 打不开时，用蓝奏云即可。
 - 常用工具：校历 PDF、虚拟/静态地图、图书馆书目检索、图书馆开放时间、健康证提示、常用电话
 - 意见反馈（能看到管理端回复）
 - 检查更新、分享应用、QQ 交流群、捐赠入口
+- 设置可隐藏底部「集市」入口
 
 **集市（可选）**
 
@@ -59,6 +60,14 @@ GitHub 打不开时，用蓝奏云即可。
 有问题可以加 QQ 群 **1079554686**，或在 App 里提交意见反馈。
 
 ## 更新记录
+
+### v1.1.6
+
+- 课表周次按官方校历对齐（修复长期误按 2 月开学推算）
+- 学期课表表头不再显示具体日期；底部导航「周程」改为「课程表」
+- 设置新增「隐藏首页集市」，可关闭底部集市入口
+- 关于页「前往下载」改为蓝奏云弹窗（提取码可复制）
+- 更新《用户协议与隐私政策》（补充图书馆与常用工具说明）
 
 ### v1.1.5
 
