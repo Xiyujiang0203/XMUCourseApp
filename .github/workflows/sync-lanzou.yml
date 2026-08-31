@@ -1,0 +1,50 @@
+name: Sync Lanzou download link
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update README from API
+        run: |
+          set -e
+          python3 <<'PY'
+          import json
+          import pathlib
+          import re
+          import urllib.request
+
+          api = "http://8.134.110.22/api/v1/app/release"
+          with urllib.request.urlopen(api, timeout=15) as resp:
+              data = json.loads(resp.read().decode())
+          url = (data.get("download_url") or "").strip()
+          pwd = (data.get("download_password") or "xmuc").strip() or "xmuc"
+          if not url:
+              raise SystemExit("empty download_url")
+
+          path = pathlib.Path("README.md")
+          text = path.read_text(encoding="utf-8")
+          pat = re.compile(r"- 蓝奏云：\[打开下载页\]\([^)]+\)（提取码 `[^`]+`）")
+          new_line = f"- 蓝奏云：[打开下载页]({url})（提取码 `{pwd}`）"
+          updated, n = pat.subn(new_line, text, count=1)
+          if n != 1:
+              raise SystemExit("lanzou line not found in README.md")
+          if updated == text:
+              print("README already up to date")
+          else:
+              path.write_text(updated, encoding="utf-8", newline="\n")
+              print(f"README updated: {url}")
+          PY
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "docs: sync Lanzou link from API" && git push)
