@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/d521ee61-63b1-40c4-b36f-850e4ded7e40
 
 ## 下载安装
 
-当前版本：**v1.1.8**
+当前版本：**v1.1.9**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
@@ -36,6 +36,7 @@ GitHub 打不开时，用蓝奏云即可。
 - 按日 / 按周看课，支持切学期、切周
 - 登录状态本地保存，会话过期可自动重登
 - 主题色可调（浅色 / 深色光谱，课表颜色跟着变）
+- 上课提醒：开启后立即推送，每日 7:00 定时
 
 **教务 & 更多**
 
@@ -63,6 +64,14 @@ GitHub 打不开时，用蓝奏云即可。
 有问题可以加 QQ 群 **1079554686**，或在 App 里提交意见反馈。
 
 ## 更新记录
+
+### v1.1.9
+
+- 设置新增「上课提醒」：开启后立即推送，每日 7:00 定时；今日无课或课已全部结束则推明日
+- 研究生选课：轮次未开放/已结束明确提示；顶部状态条
+- 选课页修复 Tab 切换崩溃、退出误弹登录、密码框异常
+- 课表刷新失败弹窗可重试；网络错误统一友好中文提示
+- 分享应用下载链接改为从管理端 API 获取
 
 ### v1.1.8
 
