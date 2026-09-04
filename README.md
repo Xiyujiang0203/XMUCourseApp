@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/d521ee61-63b1-40c4-b36f-850e4ded7e40
 
 ## 下载安装
 
-当前版本：**v1.1.9**
+当前版本：**v1.2.0**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
@@ -36,7 +36,8 @@ GitHub 打不开时，用蓝奏云即可。
 - 按日 / 按周看课，支持切学期、切周
 - 登录状态本地保存，会话过期可自动重登
 - 主题色可调（浅色 / 深色光谱，课表颜色跟着变）
-- 上课提醒：开启后立即推送，每日 7:00 定时
+- 上课提醒：开启后立即推送，每日 7:00 / 23:00 定时
+- 桌面小控件：今明课程，支持后台刷新与跳转课表
 
 **教务 & 更多**
 
@@ -64,6 +65,13 @@ GitHub 打不开时，用蓝奏云即可。
 有问题可以加 QQ 群 **1079554686**，或在 App 里提交意见反馈。
 
 ## 更新记录
+
+### v1.2.0
+
+- 新增桌面小控件：展示今明课程，可后台刷新课表、一键跳转 App
+- 设置支持「添加桌面小控件」；适配 vivo 等机型添加路径提示
+- 上课提醒改为每日 7:00 与 23:00；优化 vivo 通知稳定性与权限引导
+- 非教学周显示寒暑假等假期标签
 
 ### v1.1.9
 
