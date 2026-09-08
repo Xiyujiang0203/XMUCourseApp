@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/d521ee61-63b1-40c4-b36f-850e4ded7e40
 
 ## 下载安装
 
-当前版本：**v1.2.0**
+当前版本：**v1.2.1**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
@@ -36,6 +36,7 @@ GitHub 打不开时，用蓝奏云即可。
 - 按日 / 按周看课，支持切学期、切周
 - 登录状态本地保存，会话过期可自动重登
 - 主题色可调（浅色 / 深色光谱，课表颜色跟着变）
+- 黑暗模式：可跟随系统深色模式；系统浅色时使用主题色
 - 上课提醒：开启后立即推送，每日 7:00 / 23:00 定时
 - 桌面小控件：今明课程，支持后台刷新与跳转课表
 
@@ -65,6 +66,11 @@ GitHub 打不开时，用蓝奏云即可。
 有问题可以加 QQ 群 **1079554686**，或在 App 里提交意见反馈。
 
 ## 更新记录
+
+### v1.2.1
+
+- 修复主题色浅色 / 深色光谱切换不明显的问题
+- 设置新增「黑暗模式」：跟随系统深色模式；系统为浅色时仍使用主题色
 
 ### v1.2.0
 
