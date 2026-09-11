@@ -14,11 +14,11 @@ https://github.com/user-attachments/assets/d521ee61-63b1-40c4-b36f-850e4ded7e40
 
 ## 下载安装
 
-当前版本：**v1.2.2**
+当前版本：**v1.2.3**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
-- 蓝奏云：[打开下载页](https://wwamt.lanzout.com/iK01047rm04f)（提取码 `xmuc`）
+- 蓝奏云：[打开下载页](https://wwamt.lanzout.com/iPweg47eg33i)（提取码 `xmuc`）
 
 GitHub 打不开时，用蓝奏云即可。
 
@@ -67,7 +67,14 @@ GitHub 打不开时，用蓝奏云即可。
 
 ## 更新记录
 
+### v1.2.3
+
+- 课表拉取超时（超过 10 秒）提示前往官网网页版核对
+- 官网空课表时保留本地课表，有完整数据再与本地对齐更新
+- 意见反馈：管理员删除后本地同步移除，不再误报加载失败
+
 ### v1.2.2
+
 
 - 常用工具新增翔安校区教职工班车时刻表（2026年9月4日起）
 - 主题色变更同步到桌面小控件与上课通知配色
