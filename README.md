@@ -14,11 +14,11 @@ https://github.com/user-attachments/assets/d521ee61-63b1-40c4-b36f-850e4ded7e40
 
 ## 下载安装
 
-当前版本：**v1.2.5**
+当前版本：**v1.2.6**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
-- 蓝奏云：[打开下载页](https://wwamt.lanzout.com/iniJq48t22ri)（提取码 `xmuc`）
+- 蓝奏云：[打开下载页](https://wwamt.lanzout.com/igLUR47z69mj)（提取码 `xmuc`）
 
 GitHub 打不开时，用蓝奏云即可。
 
@@ -68,7 +68,15 @@ GitHub 打不开时，用蓝奏云即可。
 
 ## 更新记录
 
+### v1.2.6
+
+- 修复切换学期出现「暂无学期」：缓存学期列表，打开前自动补全
+- 已加载过的学期支持断网切换查看；退出登录清除本地课表缓存
+- 切换学期时课表页显示加载动画
+- 检查更新提示蓝奏云会顶掉剪贴板密码，需手动填写提取码
+
 ### v1.2.5
+
 
 - 更新《用户协议与隐私政策》（自定义课程、上课提醒、桌面小控件、本研选课、常用工具等）
 - 常用工具新增图书馆座位系统管理规则
