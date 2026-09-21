@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/d521ee61-63b1-40c4-b36f-850e4ded7e40
 
 ## 下载安装
 
-当前版本：**v1.2.6**
+当前版本：**v1.2.7**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
@@ -67,6 +67,14 @@ GitHub 打不开时，用蓝奏云即可。
 有问题可以加 QQ 群 **1079554686**，或在 App 里提交意见反馈。
 
 ## 更新记录
+
+### v1.2.7
+
+- 周课表改为按周日到周六显示，教学周从周日开始对齐
+- 设置新增「隐藏周六、周日」，可只显示周一到周五课程
+- 隐藏周末时加宽左侧节次列，节次和时间更容易看清
+- 升级后会重新估算当前教学周，避免沿用旧版周次缓存
+- 已开始适配苹果端用户，逐步补齐 iOS 相关基础配置
 
 ### v1.2.6
 
