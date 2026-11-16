@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/d521ee61-63b1-40c4-b36f-850e4ded7e40
 
 ## 下载安装
 
-当前版本：**v1.3.1**
+当前版本：**v1.3.3**
 
 - GitHub 安装包：[XMUCourse.Apk](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest/download/XMUCourse.Apk)
 - GitHub 发布页：[Releases](https://github.com/Xiyujiang0203/XMUCourseApp/releases/latest)
@@ -69,6 +69,13 @@ GitHub 打不开时，用蓝奏云即可。
 有问题可以加 QQ 群 **1079554686**，或在 App 里提交意见反馈。
 
 ## 更新记录
+
+### v1.3.3
+
+- iOS 版新增桌面小组件：显示周次、今日与明日课程，支持小 / 中 / 大三种尺寸，右上角按钮可直接刷新课表（iOS 17 及以上）
+- 修复 iOS 上通过「厦门大学官网统一身份认证」网页登录后课表无法同步的问题，图书馆校外访问同样受益
+- 修复日程页当天没有课程时无法下拉刷新的问题；刷新后仍无课会提示「今日没有课程」
+- 注销用户后，其他设备上的旧登录会自动重新同步
 
 ### v1.3.1
 
